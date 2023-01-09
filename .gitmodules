@@ -1,0 +1,15 @@
+[submodule "FreeCodeCamp-Pandas-Real-Life-Example"]
+	path = FreeCodeCamp-Pandas-Real-Life-Example
+	url = https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example.git
+[submodule "ds-content-interactive-jupyterlab-tutorial"]
+	path = ds-content-interactive-jupyterlab-tutorial
+	url = https://github.com/ine-rmotr-curriculum/ds-content-interactive-jupyterlab-tutorial.git
+[submodule "freecodecamp-intro-to-pandas"]
+	path = freecodecamp-intro-to-pandas
+	url = https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas.git
+[submodule "freecodecamp-intro-to-numpy"]
+	path = freecodecamp-intro-to-numpy
+	url = https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy.git
+[submodule "data-cleaning-rmotr-freecodecamp"]
+	path = data-cleaning-rmotr-freecodecamp
+	url = https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp.git
