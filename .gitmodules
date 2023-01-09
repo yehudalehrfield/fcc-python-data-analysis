@@ -13,3 +13,6 @@
 [submodule "data-cleaning-rmotr-freecodecamp"]
 	path = data-cleaning-rmotr-freecodecamp
 	url = https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp.git
+[submodule "RDP-Reading-Data-with-Python-and-Pandas"]
+	path = RDP-Reading-Data-with-Python-and-Pandas
+	url = https://github.com/ine-rmotr-curriculum/RDP-Reading-Data-with-Python-and-Pandas.git
